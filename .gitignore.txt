@@ -1,0 +1,4 @@
+backend/.venv/lib/
+backend/.venv/__pycache__/
+backend/.venv/bin/
+backend/.venv/lib/python3.9/
